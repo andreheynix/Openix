@@ -1,2 +1,0 @@
-# Openix
-simple
